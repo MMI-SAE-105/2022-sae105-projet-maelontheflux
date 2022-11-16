@@ -1,0 +1,22 @@
+<svg width="51" height="34" viewBox="0 0 51 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_679_908)">
+<mask id="mask0_679_908" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="51" height="34">
+<path d="M46.1429 0H4.85714C2.17462 0 0 2.02964 0 4.53333V29.4667C0 31.9704 2.17462 34 4.85714 34H46.1429C48.8254 34 51 31.9704 51 29.4667V4.53333C51 2.02964 48.8254 0 46.1429 0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_679_908)">
+<path d="M46.1429 0H4.85714C2.17462 0 0 2.02964 0 4.53333V29.4667C0 31.9704 2.17462 34 4.85714 34H46.1429C48.8254 34 51 31.9704 51 29.4667V4.53333C51 2.02964 48.8254 0 46.1429 0Z" fill="#22438B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.28549 2.26709L2.3652 2.32602L2.42835 6.80042L43.6703 31.7972L48.6173 31.7134L48.5251 27.2662L7.28549 2.26709Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.85707 2.26709L2.4285 4.53376L46.1428 31.7338L48.5714 29.4671L4.85707 2.26709Z" fill="#C7152A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43.7142 2.26709H48.5713V6.80042C48.5713 6.80042 20.0356 23.5647 7.32933 31.7972C7.17633 31.897 2.47704 31.804 2.47704 31.804L2.10062 27.4951L43.7142 2.26709Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M46.2472 2.20288L48.5714 4.53301L4.85707 31.733L2.4285 29.4663L46.2472 2.20288Z" fill="#C7152A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.4285 2.26709H31.5714V11.3338H48.5714V22.6671H31.5714V31.7338H19.4285V22.6671H2.4285V11.3338H19.4285V2.26709Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.8571 2.26709H29.1428V13.6004H48.5714V20.4004H29.1428V31.7338H21.8571V20.4004H2.4285V13.6004H21.8571V2.26709Z" fill="#C7152A"/>
+<path d="M46.1431 1.13306H4.85737C2.84547 1.13306 1.21451 2.65529 1.21451 4.53306V29.4664C1.21451 31.3442 2.84547 32.8664 4.85737 32.8664H46.1431C48.155 32.8664 49.7859 31.3442 49.7859 29.4664V4.53306C49.7859 2.65529 48.155 1.13306 46.1431 1.13306Z" stroke="black" stroke-opacity="0.1" stroke-width="2.42857"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_679_908">
+<rect width="51" height="34" fill="white"/>
+</clipPath>
+</defs>
+</svg>
