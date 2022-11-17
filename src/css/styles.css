@@ -12,37 +12,7 @@ Soyez attentifs à l'ordre d'import :
 */
 
 /* Les polices de caractère */
-
-@font-face {
-  font-family: 'objectivitybold';
-  src: url('objectivity-bold-webfont.woff2') format('woff2'),
-       url('objectivity-bold-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'objectivityregular';
-  src: url('objectivity-regular-webfont.woff2') format('woff2'),
-       url('objectivity-regular-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-
-@font-face {
-  font-family: 'objectivitymedium';
-  src: url('objectivity-medium-webfont.woff2') format('woff2'),
-       url('objectivity-medium-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-
-
+@import "base/fonts.css";
 
 /* Librairies */
 @import "vendors/normalize.css";
@@ -53,3 +23,4 @@ Soyez attentifs à l'ordre d'import :
 /* base */
 @import "base/main.css";
 @import "base/media.css";
+

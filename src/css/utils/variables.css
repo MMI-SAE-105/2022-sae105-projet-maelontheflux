@@ -1,6 +1,29 @@
 :root {
-    --main-color: rgb(184, 60, 60);
-    --second-color: green;
-    --
+/* Color styles */
+--white: rgba(255, 255, 255, 1);
+--second-backgroud: rgba(106, 129, 73, 1);
+--third: rgba(172, 173, 148, 1);
+--dynamic-1: rgba(69, 77, 77, 1);
+--dynamic-2: rgba(171, 171, 171, 1);
+--black: rgba(15, 15, 15, 1);
+--main-backgroud: rgba(20, 28, 28, 1);
+
+/* Text-size styles */
+--main-titre: 36px;
+--introduction-acceuil: 22px;
+--corps-acceuil: 14.04px;
+--bouton-home-page: 14px;
+--footer-titre: 16px;
+--footer-name: 16px;
+--footer-corps: 14px;
+--titre-menu: 32px;
+--navigation-menu: 26.35px;
+--titre-article: 40px;
+--titre-navigation-acceuil: 32.43px;
+--chapo-article: 17px;
+--sous-titre-article: 30px;
+--corps-article: 17px;
+--image-text: 14px;
 
 }
+

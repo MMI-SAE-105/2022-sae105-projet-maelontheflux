@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'objectivitybold';
+    src: url('../fonts/objectivity1/objectivity-bold-webfont.woff2') format('woff2'),
+         url('../fonts/objectivity1/objectivity-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'objectivitymedium';
+    src: url('../fonts/objectivity1/objectivity-medium-webfont.woff2') format('woff2'),
+         url('../fonts/objectivity1/objectivity-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'objectivityregular';
+    src: url('../fonts/objectivity2/objectivity-regular-webfont.woff2') format('woff2'),
+         url('../fonts/objectivity2/objectivity-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

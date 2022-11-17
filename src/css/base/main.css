@@ -1,3 +1,37 @@
+body {
+  color: rgb(255, 255, 255);
+  background-color: rgba(20, 28, 28, 1);
+  font-family: 'objectivity1bold';
+}
+
 .para {
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-family: var(--objectivityregular)
+}
+
+.body {
+  background-color: var(--background);
+}
+
+.h1 {
+  font-size: var(--main-titre);
+}
+
+.margintop40{
+  margin-top: 40px;
+}
+.margintop50{
+  margin-top: 50px;
+}
+.margintop70{
+  margin-top: 70px;
+}
+.margintop100{
+  margin-top: 100px;
+}
+.margintop20{
+  margin-top: 20px;
+}
+
+.margintop110{
+  margin-top: 110px;
 }
