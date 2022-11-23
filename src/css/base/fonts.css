@@ -22,3 +22,20 @@
     font-style: normal;
 }
 
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'objectivityregular', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.6;
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color: tomato;
+}
+
