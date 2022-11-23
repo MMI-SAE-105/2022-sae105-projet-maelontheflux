@@ -36,6 +36,6 @@ body {
 
 a {
     text-decoration: none;
-    color: tomato;
+    color: var(--white);
 }
 

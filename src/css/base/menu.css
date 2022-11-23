@@ -1,5 +1,4 @@
 .nav-toggle {
-    background-color: var(--main-backgroud);
     width: 30px;
     height: 30px;
     position: absolute;
@@ -8,8 +7,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 2;
 }
-
 .nav-toggle-bar,
 .nav-toggle-bar::before,
 .nav-toggle-bar::after {
@@ -26,5 +25,38 @@
 .nav-toggle-bar::after {
     top: 10px;
 }
+.menu {
+    background-color: var(--main-backgroud);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateX(100vw);
+    transition: all 1s;
+    z-index: 1;
+}
+.menu-open .menu {
+    transform: translateX(0);
+}
 
-
+.menu-open,
+.menu-open body {
+    overflow: hidden;
+}
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: var(--navigation-menu);
+    text-transform: none;
+}
+.menu li {
+    margin-bottom: 30px;
+}
+.menu a {
+    color: var(--white) ;
+}
