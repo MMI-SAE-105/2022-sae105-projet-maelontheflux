@@ -1,45 +1,38 @@
 body {
   color: rgb(255, 255, 255);
   background-color: rgba(20, 28, 28, 1);
-  font-family: 'objectivity1bold';
+  font-family: 'objectivitybold';
 }
-
-.para {
+.p {
+  color: yellow;
   font-family: var(--objectivityregular)
 }
-
 .body {
   background-color: var(--background);
 }
-
 .h1 {
   font-size: var(--main-titre);
 }
 
+.p
 .margintop40{
   margin-top: 40px;
 }
-
 .margintop50{
   margin-top: 50px;
 }
-
 .margintop70{
   margin-top: 70px;
 }
-
 .margintop100{
   margin-top: 100px;
 }
-
 .margintop80{
   margin-top: 80px;
 }
-
 .margintop110{
   margin-top: 110px;
 }
-
 .margintop120{
   margin-top: 120px;
 }
