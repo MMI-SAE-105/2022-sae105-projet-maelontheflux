@@ -10,10 +10,6 @@ body {
 .body {
   background-color: var(--background);
 }
-.h1 {
-  font-size: var(--main-titre);
-}
-
 .p
 .margintop40{
   margin-top: 40px;
@@ -36,4 +32,5 @@ body {
 .margintop120{
   margin-top: 120px;
 }
+
 

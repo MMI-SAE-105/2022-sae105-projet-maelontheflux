@@ -10,6 +10,12 @@
     <link rel="stylesheet" href="../src/css/base/fonts.css">
     <link rel="stylesheet" href="../src/css/base/menu.css">
     <link rel="stylesheet" href="../src/css/utils/variables.css">
+
+    <link href="https://unpkg.com/cloudinary-video-player@1.9.4/dist/cld-video-player.min.css" 
+    rel="stylesheet">
+<script src="https://unpkg.com/cloudinary-video-player@1.9.4/dist/cld-video-player.min.js" 
+    type="text/javascript"></script>
+
 </head>
 <body class=" ">
     <header>
@@ -20,56 +26,71 @@
                     </div>
                 <nav class="menu">
                     <ul>
-                        <li><a href="./fr/lieu.html">Verdun</a></li>
-                        <li><a href="./fr/film.html">Tu ne tueras point</a></li>
-                        <li><a href="./fr/livre.html">L'Art de la guerre</a></li>
-                        <li><a href="./fr/musique.html">Guren no Yumiya</a></li>
-                        <li><a href="./fr/regret.html">La menace technologique</a></li>
-                        <li><a href="./fr/espoir.html">Fin de la cyberguerre</a></li>
-                        <li><a href="./fr/contact.html">Contact</a></li>
-                        <li><a href="./fr/glossaire.html">Glossaire</a></li>
-                        <li><a href="./en/index.html"><img src="../public/icones/icon_enflag.svg" alt="icones langues english"></a></li>
+                        <li><a href="../fr/lieu.html">Verdun</a></li>
+                        <li><a href="../fr/film.html">Tu ne tueras point</a></li>
+                        <li><a href="../fr/livre.html">L'Art de la guerre</a></li>
+                        <li><a href="../fr/musique.html">Guren no Yumiya</a></li>
+                        <li><a href="../fr/regret.html">La menace technologique</a></li>
+                        <li><a href="../fr/espoir.html">Fin de la cyberguerre</a></li>
+                        <li><a href="../fr/contact.html">Contact</a></li>
+                        <li><a href="../fr/glossaire.html">Glossaire</a></li>
+                        <li><a href="../en/index.html"><img src="../public/icones/icon_enflag.svg" alt="icones langues english"></a></li>
                     </ul>
                 </nav>
             </div>
     </header>
+    var cld = cloudinary.videoPlayer('example-player', { 
+        cloud_name: 'dpl2bw64x',
+        sourceTypes: ['hls','dash','webm/vp9','mp4/h265','mp4']});
+    cld.source('Linked_Horizon_-_Guren_No_Yumiya_Attack_On_Titan_FULL_Opening_Theme_HQ_c85lhf.mp4');
+    </script>
     </body>
 
     <main>
             <img src="../public/img/musique/img-musique.webp" alt="Image de l'animé L'attaque des titans">
             <h2>Guren no yumiya</h2>
-            <p class="margintop110">Une musique à la hauteur de son oeuvre...</p>
+            <p class="pchapo-article">Une musique à la hauteur de son oeuvre...</p>
             <h4 class="margintop50">Shingeki No Kyojin, L’attaque des titans.</h4>
-            <p class="margintop40">Le nom de l’anime c’est Shingeki No Kiojin.<br>
+            <p class="pcorps-article-margin-top-40px">Le nom de l’anime c’est Shingeki No Kiojin.<br>
                 On parle de Guren no Yumiya, une musique représentative de l’histoire L’attaque des titans</p>
-            <p class="margintop40">Cet anime sorti en 2013, il est composé de quatre saisons.<br>
+            <p class="pcorps-article-margin-top-40px">Cet anime sorti en 2013, il est composé de quatre saisons.<br>
                 Cela raconte l’histoire d’un monde affecté par une guerre qui dure depuis des siècles.</p>
-            <p class="margintop20">Le premier, le mur le plus proche de l’extérieur.<br>
+            <p class="pcorps-article-margin-top-20px">Le premier, le mur le plus proche de l’extérieur.<br>
                 Le mur Maria, ensuite le mur Rose et pour finir le mur Sina qui le plus proche des humains.</p>
 
             <img src="../public/img/musique/img-mur-paradis.webp" alt="Image représentant les rois murs de Paradis" class="margintop100">
-            <p>Trois murs de Paradis</p>
+            <p class="pimage-text">Trois murs de Paradis</p>
             <h4 class="margintop70">Un générique aussi marquant que son oeuvre.</h4>
-            <p class="margintop40">Guren no yumiya signifie “L'arc et la flèche écarlate”. 
+            <p class="pcorps-article-margin-top-40px">Guren no yumiya signifie “L'arc et la flèche écarlate”. 
                 Il utilise le terme écarlate pour rendre l’expression plus belle et moins violente.</p>
-            <p class="margintop20">L'expression est en sorte atténuer, cela signifie donc “L'arc et la flèche ensanglanté".<br>
+            <p class="pcorps-article-margin-top-20px">L'expression est en sorte atténuer, cela signifie donc “L'arc et la flèche ensanglanté".<br>
                 L’instrumental de la musique est basé sur des notes graves et des notes assez rapides.</p>
-            <p class="margintop20">Cet instrumental fait ressentir de la violence.
+            <p class="pcorps-article-margin-top-20px">Cet instrumental fait ressentir de la violence.
                 Les paroles racontent les sentiments de revanches et de rages qu’éprouvent les humains au vu de leur situation injuste et interminable.</p>
 
             
             <img src="../public/img/musique/img-pub-snk-s4.webp" alt="Affiche publicitaire de l'animé L'attaque des titans" class="margintop100">
-            <p>Affiche promotionnel de la derniere<br>saison de Shingeki No Kyojin</p>
+            <p class="pimage-text">Affiche promotionnel de la derniere<br>saison de Shingeki No Kyojin</p>
             <h4 class="margintop70">L’histoire de Guren no yumiya.</h4>
-            <p class="margintop40">Un groupe de musique japonais créé par l'auteur et compositeur Revo en 2012.<br>
+            <p class="pcorps-article-margin-top-40px">Un groupe de musique japonais créé par l'auteur et compositeur Revo en 2012.<br>
                 Il est composé de 13 membres dont 7 chanteurs, 5 musiciens et 2 compositeurs. 
                 C’est un groupe de pop & rock japonais.</p>
-            <p class="margintop20">Il a composé et interprété trois des cinq musiques d'ouvertures de la série d'animation japonaise “Shingeki No Kyojin “en français “L’Attaque des Titans”.</p>
-            <p class="margintop20">Guren no Yumiya est sorti le 10 juillet 2013 dans l’album Jiyuu e no Shingeki dédiée à l’animer l’attaque des titans.</p>
-            <p class="margintop20">C’est un album avec des musiques du genre métal symphonique.<br>
+            <p class="pcorps-article-margin-top-20px">Il a composé et interprété trois des cinq musiques d'ouvertures de la série d'animation japonaise “Shingeki No Kyojin “en français “L’Attaque des Titans”.</p>
+            <p class="pcorps-article-margin-top-20px">Guren no Yumiya est sorti le 10 juillet 2013 dans l’album Jiyuu e no Shingeki dédiée à l’animer l’attaque des titans.</p>
+            <p class="pcorps-article-margin-top-20px">C’est un album avec des musiques du genre métal symphonique.<br>
                 Les paroles sont chantées en Japonais et en Allemand.</p>
-            <p class="margintop20">Sur l’application auditive Spotify, la musique qui dure 5 minutes et 10 secondes comptabilise plus de 120 millions d'écoutes. Ainsi que 40 millions de vues sur la vidéo Youtube de la musique Guren no yumiya avec le générique d’ouverture.</p>
+            <p class="pcorps-article-margin-top-20px">Sur l’application auditive Spotify, la musique qui dure 5 minutes et 10 secondes comptabilise plus de 120 millions d'écoutes. Ainsi que 40 millions de vues sur la vidéo Youtube de la musique Guren no yumiya avec le générique d’ouverture.</p>
 
+            <video
+            width=400
+            height=200
+            id="example-player"
+            controls
+            muted
+            class="cld-video-player cld-video-player-skin-dark">
+            </video>
+
+            <video controls src="https://res.cloudinary.com/dpl2bw64x/video/upload/v1669881805/Linked_Horizon_-_Guren_No_Yumiya_Attack_On_Titan_FULL_Opening_Theme_HQ_c85lhf.mp4"></video>
             <img src="../public/img/lieu/img-ossuaire-douaumont-verdun.webp" alt="Ossuaire de Douaumont, Janvier 2016" class="margintop70"><br>
             <a href="../fr/frise.html"><br>Découvrir :<br>Guren No<br>Yumiya</a>
         </main>

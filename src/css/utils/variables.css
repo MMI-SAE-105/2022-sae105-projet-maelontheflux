@@ -10,7 +10,7 @@
 
 /* Text-size styles */
 --main-titre: 36px;
---introduction-acceuil: 22px;
+--introduction-acceuil: 25px;
 --corps-accueil: 14.0px;
 --bouton-home-page: 14px;
 --footer-titre: 16px;
@@ -24,5 +24,6 @@
 --sous-titre-article: 30px;
 --corps-article: 17px;
 --image-text: 14px;
+--film-name: 30px;
 
 }

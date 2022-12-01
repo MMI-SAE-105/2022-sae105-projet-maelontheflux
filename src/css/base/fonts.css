@@ -43,11 +43,14 @@ a {
 h1 {
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--main-titre);
+    text-align: center;
 }
 
 h2 {
-    font-family: 'objectivitymedium', sans-serif;
+    font-family: 'objectivitybold', sans-serif;
     font-size: var(--titre-article);
+    text-align: center;
+    font-weight: 300;
 }
 
 h3 {
@@ -56,14 +59,74 @@ h3 {
 }
 
 h4 {
-    font-family: 'objectivitybold', sans-serif;
-    font-size: var(--titre-article);
+    font-family: 'objectivityregular', sans-serif;
+    font-size: var(--sous-titre-article);
+    font-weight: 300;
 }
 
-p {
+.pintroduction {
+    font-family: 'objectivitymedium', sans-serif;
+    font-size: var(--introduction-acceuil);
+    line-height: 26px;
+    text-align: center;
+}
+.paccueil {
+    font-family: 'objecobjectivityregular', sans-serif;
+    font-size: var(--corps-accueil);
+}
+
+.pbouton-home-page {
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--bouton-home-page);
+}
+
+.pchapo-article {
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--chapo-article);
+    margin-top: 100px;
+    text-align: left;
+}
+
+
+.pcorps-article-margin-top-40px {
+
+    font-family: 'objectivitymedium', sans-serif;
+    font-size: var(--corps-article);
+    margin-top: 40px;
+    text-align: left;
+    letter-spacing: -6.5%;
+}
+
+
+.pcorps-article-margin-top-20px {
+    font-family: 'objectivitymedium', sans-serif;
+    font-size: var(--corps-article);
+    margin-top: 20px;
+    text-align: left;
+    letter-spacing: -6.5%;
+}
+
+
+.pcorps-article-margin-top-50px {
+    font-family: 'objectivitybold', sans-serif;
+    font-size: var(--corps-article);
+    margin-top: 50px;
+    text-align: left;
+    letter-spacing: -6.5%;
+}
+
+
+.film-name-margin-top-150px {
     font-family: 'objectivityregular', sans-serif;
-    font-size: var(--corps-acceuil);
-    line-height: 1.6;
-    margin: 0 20px;
+    font-size: var(--film-name);
+    margin-top: 150px;
+    text-align: left;
+    letter-spacing: -6.5%;
+}
+
+.pimage-text {
+    font-family: 'objectivityregular', sans-serif;
+    font-size: var(--image-text);
+    letter-spacing: -6.5%;
 }
 
