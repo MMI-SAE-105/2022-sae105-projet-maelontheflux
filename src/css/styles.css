@@ -23,7 +23,7 @@ Soyez attentifs à l'ordre d'import :
 /* base */
 @import "base/main.css";
 @import "base/media.css";
-@import "base/header.css";
+@import "layout/header.css";
 @import "base/menu.css"
 
 
