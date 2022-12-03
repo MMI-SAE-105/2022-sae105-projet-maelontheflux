@@ -1,0 +1,37 @@
+.rectangle {
+    position: absolute;
+    width: 375px;
+    height: 477px;
+    background-color: var(--white);
+    z-index: 1;
+}
+
+
+.pfooter-titre {
+    font-family: 'objectivitybold', sans-serif;
+    font-size: var(--footer-titre);
+    color: var(--black);
+    letter-spacing: -6.5%;
+}
+
+.pfooter-name {
+    font-family: 'objectivitymedium', sans-serif;
+    font-size: var(--footer-name);
+    color: var(--black);
+    letter-spacing: -6.5%;
+}
+
+.pfooter-corps {
+    font-family: 'objectivityrmedium', sans-serif;
+    font-size: var(--footer-corps);
+    color: var(--black);
+    letter-spacing: -6.5%;
+}
+
+.imglogommi {
+    max-width: 46.67%;
+    position: absolute;
+    right: 0px;
+    bottom: ;
+    z-index: 2;
+}
