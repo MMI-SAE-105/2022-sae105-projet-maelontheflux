@@ -18,6 +18,7 @@
     height: 2px;
     position: absolute;
     left: 0;
+    z-index: 2;
 }
 .nav-toggle-bar::before {
     top: -10px;
@@ -36,8 +37,6 @@
     background-color: var(--white);
     top: 0;
 }
-
-
 .menu {
     background-color: var(--main-backgroud);
     position: fixed;

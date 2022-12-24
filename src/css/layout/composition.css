@@ -1,0 +1,256 @@
+/* Lieu */
+.bgimagelieux {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    height: 441px;
+    background-size: 100%;
+    background-image: url(../../../public/img/menu/lieu-verdun.webp);
+}
+    .bgimagelieux::before {
+content: url(../../../public/icones/icon_down-arrow.svg);
+display: flex;
+justify-content: flex-end;
+flex-direction: column;
+flex-wrap: nowrap;
+align-content: center;
+align-items: center;
+margin-bottom: -381px;
+
+}
+button.lieux {
+    width: 246px;
+    height: 34px;
+    margin-top: 40px;
+    margin-bottom: 71px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    background-color: var(--third);
+    color: var(--withe);
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--bouton-home-page);
+    border: none;
+}
+button.lieux::after {
+padding-top: 1px;
+margin-left: 70px;
+content: url(../../../public/icones/icon_right-arrow.svg);
+}
+
+
+
+/* Film */
+.bgimagefilm {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    height: 529px;
+    background-size: 100%;
+    background-image: url(../../../public/img/menu/film-tu-ne-tueras-point.webp);
+}
+.bgimagefilm::before {
+    content: url(../../../public/icones/icon_down-arrow.svg);
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    margin-bottom: -357px;}
+button.film {
+    width: 246px;
+    height: 34px;
+    margin-top: 40px;
+    margin-bottom: 51px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    background-color: var(--third);
+    color: var(--withe);
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--bouton-home-page);
+    border: none;
+}
+button.film::after {
+padding-top: 1px;
+margin-left: 70px;
+content: url(../../../public/icones/icon_right-arrow.svg);
+}
+
+
+
+/* Livre */
+.bgimagelivre {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+     height: 544px;
+     background-size: 100%;
+     background-image: url(../../../public/img/menu/livre-lart-de-la-guerre.webp);
+}
+.bgimagelivre::before {
+    content: url(../../../public/icones/icon_down-arrow.svg);
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    margin-bottom: -331px;
+    }
+button.livre {
+    width: 246px;
+    height: 34px;
+    margin-top: 40px;
+    margin-bottom: 38px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    background-color: var(--third);
+    color: var(--withe);
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--bouton-home-page);
+    border: none;
+}
+button.livre::after {
+padding-top: 1px;
+margin-left: 70px;
+content: url(../../../public/icones/icon_right-arrow.svg);
+}
+
+
+
+/* Musique */
+.bgimagemusique {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+     height: 466px;
+     background-size: 100%;
+     background-image: url(../../../public/img/menu/musique-snk.webp);
+}
+.bgimagemusique::before {
+    content: url(../../../public/icones/icon_down-arrow.svg);
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    margin-bottom: -347px;
+    }
+button.musique {
+    width: 246px;
+    height: 34px;
+    margin-top: 40px;
+    margin-bottom: 55px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    background-color: var(--third);
+    color: var(--withe);
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--bouton-home-page);
+    border: none;
+}
+button.musique::after {
+padding-top: 1px;
+margin-left: 70px;
+content: url(../../../public/icones/icon_right-arrow.svg);
+}
+
+
+
+/* Regret */
+.bgimageregret {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+     height: 463px;
+     background-size: 100%;
+     background-image: url(../../../public/img/menu/regret-arme.webp);
+}
+.bgimageregret::before {
+    content: url(../../../public/icones/icon_down-arrow.svg);
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    margin-bottom: -349px;
+    }
+button.regret {
+    width: 246px;
+    height: 34px;
+    margin-top: 40px;
+    margin-bottom: 39px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    background-color: var(--third);
+    color: var(--withe);
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--bouton-home-page);
+    border: none;
+}
+button.regret::after {
+padding-top: 1px;
+margin-left: 70px;
+content: url(../../../public/icones/icon_right-arrow.svg);
+}
+
+
+
+/* Espoir */
+.bgimageespoir {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+     height: 458px;
+     background-size: 100%;
+     background-image: url(../../../public/img/menu/espoir-cyberguerre.webp);
+}
+.bgimageespoir::before {
+    content: url(../../../public/icones/icon_down-arrow.svg);
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    margin-bottom: -381px;
+    }
+button.espoir {
+    width: 246px;
+    height: 34px;
+    margin-top: 40px;
+    margin-bottom: 22px;
+    margin-left: 15px;
+    padding-left: 8px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    background-color: var(--third);
+    color: var(--withe);
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--bouton-home-page);
+    border: none;
+}
+button.espoir::after {
+padding-top: 1px;
+margin-left: 70px;
+content: url(../../../public/icones/icon_right-arrow.svg);
+}

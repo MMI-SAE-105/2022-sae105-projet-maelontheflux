@@ -1,6 +1,6 @@
 body {
-  color: rgb(255, 255, 255);
-  background-color: rgba(20, 28, 28, 1);
+  color: var(--white);
+  background-color: var(--main-backgroud);
   font-family: 'objectivitybold';
 }
 .p {

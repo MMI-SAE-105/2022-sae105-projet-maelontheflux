@@ -30,7 +30,6 @@ html {
 body {
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--navigation-menu);
-    line-height: 1.6;
     margin: 0 20px;
 }
 
@@ -56,6 +55,7 @@ h2 {
 h3 {
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--titre-navigation-accueil);
+    margin-left: 15px;
 }
 
 h4 {
@@ -73,6 +73,7 @@ h4 {
 .paccueil {
     font-family: 'objecobjectivityregular', sans-serif;
     font-size: var(--corps-accueil);
+    margin-left: 15px;
 }
 
 .pbouton-home-page {
