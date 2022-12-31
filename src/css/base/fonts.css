@@ -132,5 +132,48 @@ h4 {
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--image-text);
     letter-spacing: -6.5%;
+    margin-left: 24px;
 }
 
+
+
+/*Texte redirection*/
+.p-sous-titres-redirection-lieu{
+    font-family: 'objectivityregular', sans-serif;
+    font-size: var(--sous-titre-article);
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -168px;
+}
+
+.p-sous-titres-redirection-film{
+    font-family: 'objectivityregular', sans-serif;
+    font-size: var(--sous-titre-article);
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -147px;
+}
+
+.p-sous-titres-redirection-livre{
+    font-family: 'objectivityregular', sans-serif;
+    font-size: var(--sous-titre-article);
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -165px;
+}
+
+.p-sous-titres-redirection-regret{
+    font-family: 'objectivityregular', sans-serif;
+    font-size: var(--sous-titre-article);
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -150px;
+}

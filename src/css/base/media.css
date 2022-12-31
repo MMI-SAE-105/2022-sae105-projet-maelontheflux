@@ -15,3 +15,149 @@ img{
 .bgcolor2{
     background-color: var(--second-backgroud);
 }
+
+video{
+    max-width: 100%;
+}
+/*Lieu*/
+
+.img-redirection-lieu{
+    width: 289px;
+    height:  161px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.img-lieu-ossuaire{
+    width: 349px;
+    height: 227px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-lieu-foret{
+    width: 349px;
+    height: 197px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+/*Film*/
+
+.img-redirection-film{
+    width: 289px;
+    height: 161px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.img-film-affiche{
+    width: 349px;
+    height: 196px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-film-photo-soldat{
+    width: 349px;
+    height: 431px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-film-decoration{
+    width: 349px;
+    height: 213px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Livre*/
+
+.img-redirection-livre{
+    width: 289px;
+    height: 161px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.img-livre-couverture{
+    width: 245.15px;
+    height: 372px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-livre-statue{
+    width: 341.88px;
+    height: 369px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*Musique*/
+
+.img-musique-trois-mur{
+    width: 353px;
+    height: 200.03px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-musique-affiche{
+    width: 295.92px;
+    height: 481px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*Regret*/
+
+.img-redirection-regret{
+    width: 289px;
+    height: 161px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.img-regret-bombe{
+    width: 350.22px;
+    height: 197px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-regret-eclair{
+    width: 353.17px;
+    height: 215px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Regret*/
+.img-espoir-matrix{
+    width: 353px;
+    height: 209px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

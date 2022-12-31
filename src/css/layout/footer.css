@@ -27,12 +27,6 @@
 
 }
 
-.rectangle {
-    position: absolute;
-    width: auto;
-    height: 477px;
-    background-color: var(--white);
-}
 
 .btn {
     font-family: 'obectivitymedium', sans-serif;

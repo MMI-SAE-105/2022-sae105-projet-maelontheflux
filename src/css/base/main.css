@@ -40,3 +40,83 @@ body {
   margin-left: 31px;
 }
 
+.margintop-41{
+  margin-top: -41px;
+}
+
+.margintop-55{
+  margin-top: -55px;
+}
+
+.margintop-24{
+  margin-top: -24px;
+}
+
+.margintop-39{
+  margin-top: -39px;
+}
+
+.marginleft79{
+  margin-left: 79px;
+}
+
+.margintop-30{
+  margin-top: -30px;
+}
+
+.marginleft55{
+  margin-left: 55px;
+}
+
+.margintop-50{
+  margin-top: -50px;
+}
+
+.margintop15{
+  margin-top: 15px;
+}
+
+.marginleft240{
+  margin-left: 240px;
+}
+
+.marginleft20{
+  margin-left: 20px;
+}
+
+.margintop17{
+  margin-top: 17px;
+}
+.marginleft5{
+  margin-left: 5px
+}
+
+.margintop36{
+  margin-top: 36px;
+}
+
+.margintop48{
+  margin-top: 48px;
+}
+
+.marginleft281{
+  margin-left: 281px;
+}
+
+.margintop220{
+  margin-top: -219px;
+}
+
+.marginleft31 {
+  margin-left: 31px;
+}
+
+.margintop-49{
+  margin-top: -49px;
+}
+
+.textalign{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
