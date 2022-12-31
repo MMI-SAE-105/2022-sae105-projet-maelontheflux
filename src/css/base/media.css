@@ -1,24 +1,23 @@
+/*Paramètres géneraux*/
+
 img{
     max-width: 100%;
 }
 
-.img-frise{
-    max-width: 65%;
-    margin-left: 31px;
-    display: flex;
+video{
+    max-width: 100%;
 }
 
 .margintop335 {
     margin-block-start: 335px;
 }
 
-.bgcolor2{
-    background-color: var(--second-backgroud);
-}
+/*Paramètres géneraux*/
 
-video{
-    max-width: 100%;
-}
+
+
+/*Image article*/
+
 /*Lieu*/
 
 .img-redirection-lieu{
@@ -44,7 +43,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 
 
 /*Film*/
@@ -80,6 +78,7 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
+
 
 /*Livre*/
 
@@ -153,7 +152,8 @@ video{
     margin-right: auto;
 }
 
-/*Regret*/
+
+/*Espoir*/
 .img-espoir-matrix{
     width: 353px;
     height: 209px;
@@ -161,3 +161,12 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
+
+/*Frise*/
+.img-frise{
+    max-width: 65%;
+    margin-left: 31px;
+    display: flex;
+}
+
+/*Fin Image article*/

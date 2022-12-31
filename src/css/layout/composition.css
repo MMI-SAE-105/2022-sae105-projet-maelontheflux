@@ -44,7 +44,6 @@ content: url(../../../public/icones/icon_right-arrow.svg);
 }
 
 
-
 /* Film */
 .bgimagefilm {
     display: flex;
@@ -84,7 +83,6 @@ padding-top: 1px;
 margin-left: 70px;
 content: url(../../../public/icones/icon_right-arrow.svg);
 }
-
 
 
 /* Livre */
@@ -129,7 +127,6 @@ content: url(../../../public/icones/icon_right-arrow.svg);
 }
 
 
-
 /* Musique */
 .bgimagemusique {
     display: flex;
@@ -170,7 +167,6 @@ padding-top: 1px;
 margin-left: 70px;
 content: url(../../../public/icones/icon_right-arrow.svg);
 }
-
 
 
 /* Regret */
@@ -215,8 +211,8 @@ content: url(../../../public/icones/icon_right-arrow.svg);
 }
 
 
-
 /* Espoir */
+
 .bgimageespoir {
     display: flex;
     flex-direction: column;
@@ -256,6 +252,11 @@ padding-top: 1px;
 margin-left: 70px;
 content: url(../../../public/icones/icon_right-arrow.svg);
 }
+
+/*Fin Accueil*/
+
+
+/*Header*/
 
 /*Frise*/
 .bg-image-header-frise {
@@ -330,3 +331,45 @@ content: url(../../../public/icones/icon_right-arrow.svg);
     background-image: url(../../../public/img/extrait/img-extrait-livre.webp);
     background-size: 100%;
 }
+
+/*Accessibilite*/
+.bg-image-header-accessibilite{
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/accessibilite/img-header-accessibilite.webp);
+    background-size: 100%;
+}
+
+/*Autres*/
+.bg-image-header-autres{
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/autres/img-header-autres.webp);
+    background-size: 100%;
+}
+
+/*Contact*/
+.bg-image-header-contact{
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/contact/img-header-contact.webp);
+    background-size: 100%;
+}
+
+/*Glossaire*/
+.bg-image-header-glossaire{
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/glossaire/img-header-glossaire.webp);
+    background-size: 100%;
+}
+
+/*Propos*/
+.bg-image-header-propos{
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/propos/img-header-propos.webp);
+    background-size: 100%;
+}
+
+/*Fin Header*/

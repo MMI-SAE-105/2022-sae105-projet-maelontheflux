@@ -39,6 +39,10 @@ a {
     color: var(--white);
 }
 
+
+/*Titre*/
+
+
 h1 {
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--main-titre);
@@ -66,6 +70,9 @@ h4 {
     margin-left: 18px;
 }
 
+
+/*Texte main*/
+
 .pintroduction {
     font-family: 'objectivitymedium', sans-serif;
     font-size: var(--introduction-acceuil);
@@ -88,7 +95,6 @@ h4 {
     font-size: var(--chapo-article);
     margin-top: 90px;
     margin-left: 25px;
-    text-align: left;
 }
 
 
@@ -97,7 +103,8 @@ h4 {
     font-family: 'objectivitymedium', sans-serif;
     font-size: var(--corps-article);
     margin-top: 40px;
-    text-align: left;
+    margin-left: 22px;
+    margin-right: 22px;
     letter-spacing: -6.5%;
 }
 
@@ -106,7 +113,8 @@ h4 {
     font-family: 'objectivitymedium', sans-serif;
     font-size: var(--corps-article);
     margin-top: 20px;
-    text-align: left;
+    margin-left: 22px;
+    margin-right: 22px;
     letter-spacing: -6.5%;
 }
 
