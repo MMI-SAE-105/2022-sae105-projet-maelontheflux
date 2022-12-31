@@ -1,0 +1,13 @@
+.frise-barre{
+    box-sizing: border-box;
+    position: absolute;
+    width: 11px;
+    height: 2166px;
+    left: 303px;
+    top: 452px;
+
+background: var(--black);
+border-radius: 11.2179px;
+}
+
+

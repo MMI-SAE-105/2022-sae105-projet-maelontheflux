@@ -62,6 +62,7 @@ h4 {
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--sous-titre-article);
     font-weight: 300;
+    margin-left: 18px;
 }
 
 .pintroduction {
@@ -85,6 +86,7 @@ h4 {
     font-family: 'obectivitymedium', sans-serif;
     font-size: var(--chapo-article);
     margin-top: 100px;
+    margin-left: 27px;
     text-align: left;
 }
 

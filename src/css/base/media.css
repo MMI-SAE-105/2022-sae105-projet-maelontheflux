@@ -2,6 +2,12 @@ img{
     max-width: 100%;
 }
 
+.img-frise{
+    max-width: 65%;
+    margin-left: 31px;
+    display: flex;
+}
+
 .margintop335 {
     margin-block-start: 335px;
 }
