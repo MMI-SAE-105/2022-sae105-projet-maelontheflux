@@ -50,6 +50,7 @@ h2 {
     font-size: var(--titre-article);
     text-align: center;
     font-weight: 300;
+    margin-top: -185px;
 }
 
 h3 {
@@ -85,8 +86,8 @@ h4 {
 .pchapo-article {
     font-family: 'obectivitymedium', sans-serif;
     font-size: var(--chapo-article);
-    margin-top: 100px;
-    margin-left: 27px;
+    margin-top: 90px;
+    margin-left: 25px;
     text-align: left;
 }
 

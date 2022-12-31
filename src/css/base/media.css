@@ -11,3 +11,7 @@ img{
 .margintop335 {
     margin-block-start: 335px;
 }
+
+.bgcolor2{
+    background-color: var(--second-backgroud);
+}

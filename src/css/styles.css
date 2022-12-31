@@ -31,7 +31,7 @@ Soyez attentifs à l'ordre d'import :
 @import "layout/composition.css";
 
 /* Components */
-
+@import "components/composants.css"
 
 
 

@@ -1,3 +1,5 @@
+/*Accueil*/
+
 /* Lieu */
 .bgimagelieux {
     position: relative;
@@ -253,4 +255,78 @@ button.espoir::after {
 padding-top: 1px;
 margin-left: 70px;
 content: url(../../../public/icones/icon_right-arrow.svg);
+}
+
+/*Frise*/
+.bg-image-header-frise {
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/frise/img-champ-de-croix.webp);
+}
+
+/*Lieu*/
+.bg-image-header-lieu {
+    margin-top: -30px;
+    height: 351px;
+    background-image: url(../../../public/img/lieu/img-au-revoir-la-haut.gif);
+    background-size: 230%;
+}
+
+/*Film*/
+.bg-image-header-film {
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/film/img-film.webp);
+    background-size: 100%;
+
+}
+
+/*Livres*/
+.bg-image-header-livre {
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/livre/img-livre.webp);
+    background-size: 100%;
+}
+
+/*Musique*/
+.bg-image-header-musique {
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/musique/img-musique.webp);
+    background-size: 100%;
+}
+
+/*Regret*/
+.bg-image-header-regret {
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/regret/img-regret.webp);
+    background-size: 100%;
+}
+
+/*Espoir*/
+.bg-image-header-espoir {
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/espoir/img-espoir.webp);
+    background-size: 100%;
+
+
+}
+
+/*Filmographie*/
+.bg-image-header-filmographie {
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/filmographie/img-mel-gibson.webp);
+    background-size: 100%;
+}
+
+/*Frise*/
+.bg-image-header-extrait {
+    margin-top: -27px;
+    height: 351px;
+    background-image: url(../../../public/img/extrait/img-extrait-livre.webp);
+    background-size: 100%;
 }
