@@ -161,7 +161,95 @@ h4 {
     letter-spacing: -6,5%;
 }
 
+.pcorps-contact-beige{
+    font-family: 'objectivitymedium', sans-serif;
+    font-size: var(--corps-article);
+    margin-left: 29px;
+    letter-spacing: -6.5%;
+    color: var(--third);
+}
 
+.pcorps-contact-black{
+    font-family: 'objectivitymedium', sans-serif;
+    font-size: var(--corps-article);
+    letter-spacing: -6.5%;
+    color: var(--black);
+}
+
+
+
+input {
+    font-family: 'obectivitymedium' "typewriter", sans-serif;
+    font-size: var(--corps-article);
+    text-align: center;
+}
+
+input[message=name] {
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--corps-article);
+    text-align: center;
+    caret-color: var(--main-backgroud);
+}
+
+input[message=mail] {
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--corps-article);
+    text-align: center;
+    caret-color: var(--main-backgroud);
+}
+
+input[message=object] {
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--corps-article);
+    text-align: left;
+    caret-color: var(--main-backgroud);
+}
+
+input[message=message] {
+    font-family: 'obectivitymedium', sans-serif;
+    font-size: var(--corps-article);
+    text-align: start;
+    caret-color: var(--main-backgroud);
+}
+
+input[type=text] {
+    position: relative;
+    width: 334px;
+    height: 49px;
+    left: 18px;
+    background: var(--third);
+    border-radius: 5px;
+    border: none;
+}
+
+
+input[placeholder=Message] {
+    color: var(--black);
+}
+input[placeholder=Message]::placeholder {
+    color: var(--black);
+}
+
+input[type=message] {
+    position: relative;
+    height: 90px;
+    width: 334px;
+    left: 18px;
+    background: var(--third);
+    border-radius: 5px;
+    border: none;
+
+}
+
+button[type=send] {
+    position: relative;
+    width: 334px;
+    height: 49px;
+    left: 18px;
+    background: var(--third);
+    border-radius: 5px;
+    border: none;
+}
 
 
 /*Texte redirection*/
