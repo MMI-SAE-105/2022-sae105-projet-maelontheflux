@@ -15,6 +15,10 @@ body {
   background-color: var(--second-backgroud);
 }
 
+.bgcolor3{
+  background-color: var(--white);
+}
+
 .margintop-3{
   margin-top: -3px;
 }
@@ -97,10 +101,13 @@ body {
   margin-left: 20px;
 }
 
-.marginleft10 {
+.marginleft10{
   margin-left: 10px;
 }
 
+.margintop90{
+  margin-top: 90px;
+}
 
 .margintop15{
   margin-top: 15px;
@@ -132,6 +139,30 @@ body {
 .margintop-49{
   margin-top: -49px;
 }
+
+.marginleft150{
+  margin-left: 150px;
+}
+
+.margintop-200{
+  margin-top: -200px;
+}
+
+.margintop56{
+  margin-top: 56px;
+}
+.margintop-120{
+  margin-top: -120px;
+}
+
+.margintop-219{
+  margin-top: -219px;
+}
+
+.margintop-220{
+  margin-top: -220px;
+}
+
 
 .textalign{
   display: flex;

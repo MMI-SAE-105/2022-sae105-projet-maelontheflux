@@ -19,12 +19,14 @@
 --titre-menu: 32px;
 --navigation-menu: 26.35px;
 --titre-article: 40px;
+--chargement: 17px;
 --titre-navigation-accueil: 32.43px;
 --chapo-article: 17px;
 --sous-titre-article: 30px;
 --corps-article: 17px;
 --image-text: 14px;
 --film-name: 30px;
+
 
 --imagetest: url(../../../public/icones/icon_right-arrow.svg);
 --url: url("../../../public/img/menu/film-tu-ne-tueras-point.webp")
