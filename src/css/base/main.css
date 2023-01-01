@@ -116,6 +116,10 @@ body {
   margin-left: 5px
 }
 
+.marginleft70{
+  margin-left: 70px;
+}
+
 .margintop36{
   margin-top: 36px;
 }
@@ -162,7 +166,6 @@ body {
 .margintop-220{
   margin-top: -220px;
 }
-
 
 .textalign{
   display: flex;

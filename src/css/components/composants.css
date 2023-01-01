@@ -1,3 +1,17 @@
+.rectangle-citation{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 360px;
+    height: 188px;
+    background: var(--dynamic-1);
+    border: 1.62px solid var(--black);
+}
+
+
+/* Frise */
+
+
 .frise-barre{
     box-sizing: border-box;
     position: absolute;
@@ -8,21 +22,6 @@
 
 background: var(--black);
 border-radius: 11.20px;
-}
-
-
-
-
-/* Frise */
-
-.rectangle-citation{
-    margin-top: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 360px;
-    height: 188px;
-    background: var(--dynamic-1);
-    border: 1.62px solid var(--black);
 }
 
 .elipse1{
@@ -118,6 +117,7 @@ border: 3.20px solid var(--black);
 
 /* Barre chargement accessibilité */
 
+
 .rectangle-progression-access1{
     position: absolute;
     width: 325px;
@@ -153,6 +153,8 @@ border: 3.20px solid var(--black);
 
 
 /* Personne 1 */
+
+
 .elipse-tete{
     position: relative;
     height: 37px;
@@ -191,6 +193,7 @@ border: 3.20px solid var(--black);
 
 /* Personne 2 */
 
+
 .elipse-tete2 {
     position: relative;
     height: 37px;
@@ -227,7 +230,7 @@ border: 3.20px solid var(--black);
 }
 
 
-    /* Personne 3 */
+/* Personne 3 */
 .elipse-tete3{
     position: relative;
     height: 37px;
@@ -263,7 +266,8 @@ border: 3.20px solid var(--black);
     border: 4px solid var(--white);
     }
 
-    /* Personne 4 */
+
+/* Personne 4 */
 .elipse-tete4{
     position: relative;
     height: 37px;
@@ -299,7 +303,8 @@ border: 3.20px solid var(--black);
     border: 4px solid var(--white);
     }
 
-    /* Personne 5 */
+
+/* Personne 5 */
 .elipse-tete5{
     position: relative;
     height: 37px;
@@ -335,7 +340,8 @@ border: 3.20px solid var(--black);
     border: 4px solid var(--white);
     }
 
-    /* Personne 6 */
+
+/* Personne 6 */
 .elipse-tete6{
     position: relative;
     height: 37px;
@@ -371,7 +377,8 @@ border: 3.20px solid var(--black);
     border: 4px solid var(--white);
     }
 
-    /* Personne 7 */
+
+/* Personne 7 */
 .elipse-tete7{
     position: relative;
     height: 37px;
@@ -407,7 +414,8 @@ border: 3.20px solid var(--black);
     border: 4px solid var(--white);
     }
 
-    /* Personne 8 */
+
+/* Personne 8 */
 .elipse-tete8{
     position: relative;
     height: 37px;
@@ -443,7 +451,8 @@ border: 3.20px solid var(--black);
     border: 4px solid var(--white);
     }
 
-    /* Personne 9 */
+
+/* Personne 9 */
 .elipse-tete9{
     position: relative;
     height: 37px;
@@ -479,7 +488,8 @@ border: 3.20px solid var(--black);
     border: 4px solid var(--white);
     }
 
-    /* Personne 10 */
+
+/* Personne 10 */
 .elipse-tete10{
     position: relative;
     height: 37px;
@@ -515,7 +525,8 @@ border: 3.20px solid var(--black);
     border: 4px solid var(--white);
     }
 
-    /* Personne 11 */
+
+/* Personne 11 */
 .elipse-tete11{
     position: relative;
     height: 37px;
@@ -551,7 +562,8 @@ border: 3.20px solid var(--black);
     border: 4px solid var(--white);
     }
 
-    /* Personne 12 */
+
+/* Personne 12 */
 .elipse-tete12{
     position: relative;
     height: 37px;

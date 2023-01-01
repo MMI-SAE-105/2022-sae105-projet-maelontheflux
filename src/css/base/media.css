@@ -12,9 +12,6 @@ video{
     margin-block-start: 335px;
 }
 
-/*Paramètres géneraux*/
-
-
 
 /*Image article*/
 
@@ -169,4 +166,25 @@ video{
     display: flex;
 }
 
-/*Fin Image article*/
+
+
+/*Logo*/
+
+.align-item{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.img-insta{
+    display: block;
+    margin-left: auto;
+    margin-right: 70px;
+    }
+
+.img-behance{
+    display: block;
+    margin-left: 70px;
+    margin-right: auto;
+    }
+    
