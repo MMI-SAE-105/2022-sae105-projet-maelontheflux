@@ -11,21 +11,21 @@
 /* Text-size styles */
 --main-titre: 36px;
 --introduction-acceuil: 25px;
---corps-accueil: 14.0px;
+--corps-accueil: 14px;
 --bouton-home-page: 14px;
 --footer-titre: 16px;
 --footer-name: 16px;
 --footer-corps: 14px;
 --titre-menu: 32px;
---navigation-menu: 26.35px;
+--navigation-menu: 26.3504px;
 --titre-article: 40px;
 --chargement: 17px;
---titre-navigation-accueil: 32.43px;
+--titre-navigation-accueil: 32.4304px;
 --chapo-article: 17px;
 --sous-titre-article: 30px;
---corps-article: 17px;
---image-text: 14px;
---film-name: 30px;
+--corps-article: 1.0625rem;
+--image-text: 0.875rem;
+--film-name: 1.875rem;
 
 
 --imagetest: url(../../../public/icones/icon_right-arrow.svg);

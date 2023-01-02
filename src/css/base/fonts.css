@@ -225,3 +225,21 @@ h4 {
     text-align: center;
     margin-top: -150px;
 }
+
+.p-sous-titres-redirection-francais{
+    font-family: 'objectivityregular', sans-serif;
+    font-size: var(--sous-titre-article);
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.p-sous-titres-redirection-anglais{
+    font-family: 'objectivityregular', sans-serif;
+    font-size: var(--sous-titre-article);
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
