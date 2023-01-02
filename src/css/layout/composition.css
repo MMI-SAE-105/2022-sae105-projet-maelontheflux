@@ -10,7 +10,7 @@
     background-size: 100%;
     background-image: url(../../../public/img/menu/lieu-verdun.webp);
 }
-    .bgimagelieux::before {
+.bgimagelieux::before {
 content: url(../../../public/icones/icon_down-arrow.svg);
 display: flex;
 justify-content: flex-end;
@@ -221,7 +221,6 @@ content: url(../../../public/icones/icon_right-arrow.svg);
      background-size: 100%;
      background-image: url(../../../public/img/menu/espoir-cyberguerre.webp);
 }
-
 button.espoir {
     width: 246px;
     height: 34px;
@@ -362,5 +361,3 @@ content: url(../../../public/icones/icon_right-arrow.svg);
     background-image: url(../../../public/img/propos/img-header-propos.webp);
     background-size: 100%;
 }
-
-/*Fin Header*/

@@ -5,7 +5,10 @@ img{
 }
 
 video{
-    max-width: 100%;
+    max-width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -253,21 +256,23 @@ video{
 
 /*Logo*/
 
-.align-item{
+.align-item-rs{
     display: flex;
     justify-content: space-between;
-    text-align: center;
 }
 
 .img-insta{
-    display: block;
-    margin-left: auto;
-    margin-right: 70px;
-    }
+    position: relative;
+    left: 20%;
 
-.img-behance{
-    display: block;
-    margin-left: 70px;
-    margin-right: auto;
-    }
-    
+}
+
+.img-behance{    
+    position: relative;
+    left: 20%;
+}
+
+.sigle-age{
+    margin-left: 20px;
+    vertical-align:top;
+}

@@ -280,8 +280,12 @@ button[type=send] {
   margin-bottom: 40px;
 }
 
-.margintop-175{
-  margin-top: -175px;
+.margintop-173{
+  margin-top: -173px;
+}
+
+.margintop-172 {
+  margin-top: -172px;
 }
 
 .margintop155{
@@ -316,8 +320,8 @@ button[type=send] {
   margin-top: -163px;
 }
 
-.margintop-140{
-  margin-top: -140px;
+.margintop-142{
+  margin-top: -142px;
 }
 
 .margintop-192 {
@@ -352,6 +356,18 @@ button[type=send] {
   margin-top: -142px;
 }
 
+.margintop-141{
+  margin-top: -141px;
+}
+
+.margintop2236{
+  margin-top: 2236px;
+}
+
+.margintop830{
+  margin-top: 830px;
+}
+
 .margintop115 {
   margin-top: 115px;
 }
@@ -361,7 +377,4 @@ button[type=send] {
   text-align: center;
 }
 
-.sigle-age{
-  margin-left: 20px;
-  vertical-align:top;
-}
+
