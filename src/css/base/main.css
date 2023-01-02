@@ -361,6 +361,7 @@ button[type=send] {
   text-align: center;
 }
 
-.align-items{
-  
+.sigle-age{
+  margin-left: 20px;
+  vertical-align:top;
 }
