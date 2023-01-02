@@ -8,9 +8,7 @@ video{
     max-width: 100%;
 }
 
-.margintop335 {
-    margin-block-start: 335px;
-}
+
 
 
 /*Image article*/
@@ -166,6 +164,91 @@ video{
     display: flex;
 }
 
+
+/*Filmographie*/
+
+.img-filmographie1{
+    margin-top: 50px;
+    height: 359px;
+    width: 269.25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-filmographie2{
+    margin-top: 50px;
+    height: 361px;
+    width: 270.75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-filmographie3{
+    margin-top: 50px;
+    height: 359px;
+    width: 260.72px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-filmographie4{
+    margin-top: 50px;
+    height: 359px;
+    width: 258.92px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-filmographie5{
+    margin-top: 50px;
+    height: 359.49px;
+    width: 239.66px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-filmographie6{
+    margin-top: 50px;
+    height: 359px;
+    width: 269.25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-filmographie7{
+    margin-top: 50px;
+    height: 359px;
+    width: 269.25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-filmographie8{
+    margin-top: 50px;
+    height: 346.22px;
+    width: 272px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-filmographie9{
+    margin-top: 50px;
+    height: 358.66px;
+    width: 269px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.
 
 
 /*Logo*/

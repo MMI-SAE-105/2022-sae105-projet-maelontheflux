@@ -221,16 +221,7 @@ content: url(../../../public/icones/icon_right-arrow.svg);
      background-size: 100%;
      background-image: url(../../../public/img/menu/espoir-cyberguerre.webp);
 }
-.bgimageespoir::before {
-    content: url(../../../public/icones/icon_down-arrow.svg);
-    display: flex;
-    justify-content: flex-end;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-content: center;
-    align-items: center;
-    margin-bottom: -381px;
-    }
+
 button.espoir {
     width: 246px;
     height: 34px;
