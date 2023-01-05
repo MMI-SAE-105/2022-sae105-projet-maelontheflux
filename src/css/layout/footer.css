@@ -1,3 +1,4 @@
+/*Compostion footer*/
 .pfooter-titre {
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--footer-titre);
@@ -5,7 +6,6 @@
     letter-spacing: -6.5%;
     margin-left: 5px;
 }
-
 .pfooter-name {
     font-family: 'objectivitymedium', sans-serif;
     font-size: var(--footer-name);
@@ -13,7 +13,6 @@
     letter-spacing: -6.5%;
     margin-left: 5px;
 }
-
 .pfooter-corps {
     font-family: 'objectivityrmedium', sans-serif;
     font-size: var(--footer-corps);
@@ -21,14 +20,12 @@
     letter-spacing: -6.5%;
     margin-left: 5px;
 }
-
 .imglogommi {
     max-width: 46.67%;
     position: absolute;
     right: 0px;
 
 }
-
 .btn {
     font-family: 'obectivitymedium', sans-serif;
     font-size: var(--bouton-home-page);
@@ -40,20 +37,17 @@
     border: 0px;
     margin-left: 15px;
 }
-
 .flag-lang {
     position: absolute;
     margin-left: 135px;
     margin-top: -100px;
 }
-
 .rectangle {
     position: absolute;
     width: auto;
     height: 420px;
     background-color: var(--white);
 }
-
 .barre-footer{
     position: relative;
     height: 0px;
@@ -64,7 +58,6 @@
     border: 3px solid #ACAD94;
     border-radius: 5px;
 }
-
 .sous-ligne{
     text-decoration: underline;
 }

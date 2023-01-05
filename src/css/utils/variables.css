@@ -9,6 +9,9 @@
 --main-backgroud: rgba(20, 28, 28, 1);
 
 /* Text-size styles */
+
+/* Le changement de pixel en REM créer une erreur dans le site, tout les polices sont rendus très petites. */
+
 --main-titre: 36px;
 --introduction-acceuil: 25px;
 --corps-accueil: 14px;
@@ -23,11 +26,11 @@
 --titre-navigation-accueil: 32.4304px;
 --chapo-article: 17px;
 --sous-titre-article: 30px;
---corps-article: 1.0625rem;
---image-text: 0.875rem;
---film-name: 1.875rem;
+--corps-article: 17px;
+--image-text: 14px;
+--film-name: 30px;
 
-
+/*/Test à supp*/
 --imagetest: url(../../../public/icones/icon_right-arrow.svg);
 --url: url("../../../public/img/menu/film-tu-ne-tueras-point.webp")
 }

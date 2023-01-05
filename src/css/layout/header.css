@@ -1,13 +1,12 @@
+/*Compostion header*/
 .flexLeft { 
     margin-top:27px;
     margin-left: 14px;
 }
-
 .flexRight {
     margin-top: 41px;
     margin-right: 27px;
 }
-
 .header-logo{
     margin-top: 27px;
 }

@@ -1,3 +1,5 @@
+/*Page*/
+
 body {
   color: var(--white);
   background-color: var(--main-backgroud);
@@ -10,11 +12,9 @@ body {
 .body {
   background-color: var(--background);
 }
-
 .bgcolor2{
   background-color: var(--second-backgroud);
 }
-
 .bgcolor3{
   background-color: var(--white);
 }
@@ -95,6 +95,7 @@ button[type=send] {
 }
 
 
+
 /*Margin*/
 .margintop-3{
   margin-top: -3px;
@@ -123,7 +124,6 @@ button[type=send] {
 .margintop80{
   margin-top: 80px;
 }
-
 .marginleft5{
   margin-left: 5px;
 }
@@ -136,242 +136,186 @@ button[type=send] {
 .margintop120{
   margin-top: 120px;
 }
-
 .marginleft31{
   margin-left: 31px;
 }
-
 .margintop35{
   margin-top: 35px;
 }
 .margintop-41{
   margin-top: -41px;
 }
-
 .margintop-55{
   margin-top: -55px;
 }
-
 .margintop-24{
   margin-top: -24px;
-
-}.margintop30{
+}
+.margintop30{
   margin-top: 30px;
 }
 .margintop-39{
   margin-top: -39px;
 }
-
 .margintop10{
   margin-top: 10px;
 }
 .marginleft79{
   margin-left: 79px;
 }
-
 .margintop-30{
   margin-top: -30px;
 }
-
 .marginleft55{
   margin-left: 55px;
 }
-
 .margintop-50{
   margin-top: -50px;
 }
-
 .margintop15{
   margin-top: 15px;
 }
-
 .marginleft225{
   margin-left: 225px;
 }
-
 .marginleft20{
   margin-left: 20px;
 }
-
 .marginleft10{
   margin-left: 10px;
 }
-
 .margintop90{
   margin-top: 90px;
 }
-
 .margintop15{
   margin-top: 15px;
 }
 .marginleft5{
   margin-left: 5px
 }
-
 .marginleft70{
   margin-left: 70px;
 }
-
 .margintop36{
   margin-top: 36px;
 }
-
 .margintop-100{
   margin-top: -100px;
 }
-
 .marginleft-40{
   margin-left: -40px;
 }
-
 .margintop48{
   margin-top: 48px;
 }
-
 .marginleft281{
   margin-left: 281px;
 }
-
 .margintop220{
   margin-top: -219px;
 }
-
 .marginleft31 {
   margin-left: 31px;
 }
-
 .margintop335 {
   margin-block-start: 335px;
 }
-
-
 .margintop-49{
   margin-top: -49px;
 }
-
 .marginleft150{
   margin-left: 150px;
 }
-
 .margintop-200{
   margin-top: -200px;
 }
-
 .margintop56{
   margin-top: 56px;
 }
 .margintop-120{
   margin-top: -120px;
 }
-
 .margintop-219{
   margin-top: -219px;
 }
-
 .margintop-220{
   margin-top: -220px;
 }
-
 .marginleft325{
   margin-left: 325px;
 }
-
 .marginbottom40{
   margin-bottom: 40px;
 }
-
 .margintop-173{
   margin-top: -173px;
 }
-
 .margintop-172 {
   margin-top: -172px;
 }
-
 .margintop155{
   margin-top: 155px;
 }
-
 .margintop79{
   margin-top: 79px;
 }
-
 .margintop65{
   margin-top: 65px;
 }
-
 .marginleft274 {
   margin-left: 274px;
 }
-
 .margintop70{
   margin-top: 70px;
 }
-
 .margintop-170{
   margin-top: -170px;
 }
-
 .margintop75{
   margin-top: 75px;
 }
-
 .margintop-163{
   margin-top: -163px;
 }
-
 .margintop-142{
   margin-top: -142px;
 }
-
 .margintop-192 {
   margin-top: -192px;
 }
-
 .margintop144 {
   margin-top: 144px;
 }
-
 .margintop120{
   margin-top: 120px;
 }
-
 .margintop-162 {
   margin-top: -162px;
 }
-
 .margintop-168 {
   margin-top: -168px;
 }
-
 .margintop-152 {
   margin-top: -152px;
 }
-
 .margintop130 {
   margin-top: 130px;
 }
-
 .margintop-142 {
   margin-top: -142px;
 }
-
 .margintop-141{
   margin-top: -141px;
 }
-
 .margintop2236{
   margin-top: 2236px;
 }
-
 .margintop830{
   margin-top: 830px;
 }
-
 .margintop-139{
   margin-top: -139px;
 }
-
 .margintop115 {
   margin-top: 115px;
 }

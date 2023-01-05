@@ -1,9 +1,10 @@
-/*Paramètres géneraux*/
+/* Le changement de pixel en vw créer une erreur dans le site, tout les images sont rendus très petites. */
 
+
+/*Paramètres géneraux*/
 img{
     max-width: 100%;
 }
-
 video{
     max-width: 90%;
     display: block;
@@ -17,7 +18,6 @@ video{
 /*Image article*/
 
 /*Lieu*/
-
 .img-redirection-lieu{
     width: 289px;
     height:  161px;
@@ -25,7 +25,6 @@ video{
     margin-left: auto;
     margin-right: auto;
     }
-
 .img-lieu-ossuaire{
     width: 349px;
     height: 227px;
@@ -33,7 +32,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-lieu-foret{
     width: 349px;
     height: 197px;
@@ -44,7 +42,6 @@ video{
 
 
 /*Film*/
-
 .img-redirection-film{
     width: 289px;
     height: 161px;
@@ -52,15 +49,13 @@ video{
     margin-left: auto;
     margin-right: auto;
     }
-
 .img-film-affiche{
-    width: 349px;
-    height: 196px;
+    width: 348.998px;
+    height: 195.998px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-film-photo-soldat{
     width: 349px;
     height: 431px;
@@ -68,7 +63,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-film-decoration{
     width: 349px;
     height: 213px;
@@ -79,15 +73,13 @@ video{
 
 
 /*Livre*/
-
 .img-redirection-livre{
     width: 289px;
     height: 161px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    }
-
+}
 .img-livre-couverture{
     width: 245.15px;
     height: 372px;
@@ -95,7 +87,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-livre-statue{
     width: 341.88px;
     height: 369px;
@@ -106,7 +97,6 @@ video{
 
 
 /*Musique*/
-
 .img-musique-trois-mur{
     width: 353px;
     height: 200.03px;
@@ -114,7 +104,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-musique-affiche{
     width: 295.92px;
     height: 481px;
@@ -125,15 +114,13 @@ video{
 
 
 /*Regret*/
-
 .img-redirection-regret{
     width: 289px;
     height: 161px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    }
-
+}
 .img-regret-bombe{
     width: 350.22px;
     height: 197px;
@@ -141,7 +128,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-regret-eclair{
     width: 353.17px;
     height: 215px;
@@ -159,7 +145,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 /*Frise*/
 .img-frise{
     max-width: 65%;
@@ -169,7 +154,6 @@ video{
 
 
 /*Filmographie*/
-
 .img-filmographie1{
     margin-top: 50px;
     height: 359px;
@@ -178,7 +162,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-filmographie2{
     margin-top: 50px;
     height: 361px;
@@ -187,7 +170,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-filmographie3{
     margin-top: 50px;
     height: 359px;
@@ -196,7 +178,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-filmographie4{
     margin-top: 50px;
     height: 359px;
@@ -205,7 +186,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-filmographie5{
     margin-top: 50px;
     height: 359.49px;
@@ -214,7 +194,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-filmographie6{
     margin-top: 50px;
     height: 359px;
@@ -223,7 +202,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-filmographie7{
     margin-top: 50px;
     height: 359px;
@@ -232,7 +210,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-filmographie8{
     margin-top: 50px;
     height: 346.22px;
@@ -241,7 +218,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
 .img-filmographie9{
     margin-top: 50px;
     height: 358.66px;
@@ -251,27 +227,23 @@ video{
     margin-right: auto;
 }
 
-.
+
 
 
 /*Logo*/
-
 .align-item-rs{
     display: flex;
     justify-content: space-between;
 }
-
 .img-insta{
     position: relative;
     left: 20%;
 
 }
-
 .img-behance{    
     position: relative;
     left: 20%;
 }
-
 .sigle-age{
     margin-left: 20px;
     vertical-align:top;
@@ -280,7 +252,6 @@ video{
 
 /*Index langue*/
 
-
 .language-fr{
     height: 89.02px;
     width: 133.54px;
@@ -288,8 +259,6 @@ video{
     margin-left: auto;
     margin-right: auto;
 }
-
-
 .language-en{
     height: 89.02px;
     width: 133.54px;

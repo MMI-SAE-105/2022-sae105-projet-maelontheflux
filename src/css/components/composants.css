@@ -11,8 +11,6 @@
 
 
 /* Frise */
-
-
 .frise-barre{
     box-sizing: border-box;
     position: absolute;
@@ -24,7 +22,6 @@
 background: var(--black);
 border-radius: 11.20px;
 }
-
 .elipse1{
 box-sizing: border-box;
 
@@ -37,7 +34,6 @@ border-radius: 40px;
 background: var(--dynamic-2);
 border: 3.20px solid var(--black);
 }
-
 .elipse1{
     box-sizing: border-box;
     
@@ -49,8 +45,7 @@ border: 3.20px solid var(--black);
     border-radius: 40px;
     background: var(--dynamic-2);
     border: 3.20px solid var(--black);
-    }
-
+}
 .elipse2{
     box-sizing: border-box;
 
@@ -62,8 +57,7 @@ border: 3.20px solid var(--black);
     border-radius: 40px;
     background: var(--dynamic-2);
     border: 3.20px solid var(--black);
-    }
-
+}
 .elipse3{
     box-sizing: border-box;
 
@@ -75,8 +69,7 @@ border: 3.20px solid var(--black);
     border-radius: 40px;
     background: var(--dynamic-2);
     border: 3.20px solid var(--black);
-    }
-
+}
 .elipse4{
     box-sizing: border-box;
     
@@ -88,8 +81,7 @@ border: 3.20px solid var(--black);
     border-radius: 40px;
     background: var(--dynamic-2);
     border: 3.20px solid var(--black);
-    }
-
+}
 .elipse5{
     box-sizing: border-box;
 
@@ -101,8 +93,7 @@ border: 3.20px solid var(--black);
     border-radius: 40px;
     background: var(--dynamic-2);
     border: 3.20px solid var(--black);
-    }
-
+}
 .elipse6{
     box-sizing: border-box;
 
@@ -114,10 +105,9 @@ border: 3.20px solid var(--black);
     border-radius: 40px;
     background: var(--dynamic-2);
     border: 3.20px solid var(--black);
-    }
-
+}
+    
 /* Barre chargement accessibilité */
-
 .rectangle-progression-access1{
     position: absolute;
     width: 325px;
@@ -152,7 +142,6 @@ border: 3.20px solid var(--black);
 
 
 /* Personne 1 */
-
 .elipse-tete{
     position: relative;
     height: 37px;
@@ -176,7 +165,7 @@ border: 3.20px solid var(--black);
     border: 5px solid var(--white);
     border-bottom: 0;
     
-    }
+}
 .elipse-contour{
     position: relative;
     height: 100px;
@@ -186,4 +175,4 @@ border: 3.20px solid var(--black);
     border-radius: 100px;
     background: var(--main-backgroud);
     border: 4px solid var(--white);
-    }
+}

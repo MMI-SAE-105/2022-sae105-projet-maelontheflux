@@ -1,7 +1,7 @@
 - NOM : Grosjean
 - PRÉNOM : Maël
-- URL du site :
-- URL FIGMA :
+- URL du site : 
+- URL FIGMA : https://www.figma.com/file/apVPXJiJqjRxdrjOo2XU5d/Endless-War-maquette?node-id=0%3A1&t=mf9b6q0ViN53SXFD-1
 
 # Structure de départ pour le projet individuel.
 

@@ -42,7 +42,6 @@ h1 {
     font-size: var(--main-titre);
     text-align: center;
 }
-
 h2 {
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--titre-article);
@@ -50,13 +49,11 @@ h2 {
     font-weight: 300;
     margin-top: -185px;
 }
-
 h3 {
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--titre-navigation-accueil);
     margin-left: 15px;
 }
-
 h4 {
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--sous-titre-article);
@@ -78,19 +75,16 @@ h4 {
     font-size: var(--corps-accueil);
     margin-left: 15px;
 }
-
 .pbouton-home-page {
     font-family: 'obectivitymedium', sans-serif;
     font-size: var(--bouton-home-page);
 }
-
 .pchapo-article {
     font-family: 'obectivitymedium', sans-serif;
     font-size: var(--chapo-article);
     margin-top: 90px;
     margin-left: 25px;
 }
-
 .pcorps-article{
     font-family: 'objectivitymedium', sans-serif;
     font-size: var(--corps-article);
@@ -98,7 +92,6 @@ h4 {
     margin-right: 22px;
     letter-spacing: -6.5%;
 }
-
 .pnavigation-menu{
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--navigation-menu);
@@ -106,7 +99,6 @@ h4 {
     letter-spacing: -6.5%;
 
 }
-
 .pcorps-article-margin-top-40px {
     font-family: 'objectivitymedium', sans-serif;
     font-size: var(--corps-article);
@@ -115,7 +107,6 @@ h4 {
     margin-right: 22px;
     letter-spacing: -6.5%;
 }
-
 .pcorps-article-margin-top-20px {
     font-family: 'objectivitymedium', sans-serif;
     font-size: var(--corps-article);
@@ -124,7 +115,6 @@ h4 {
     margin-right: 22px;
     letter-spacing: -6.5%;
 }
-
 .pcorps-article-margin-top-50px {
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--corps-article);
@@ -133,7 +123,6 @@ h4 {
     margin-right: 22px;
     letter-spacing: -6.5%;
 }
-
 .film-name-margin-top-150px {
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--film-name);
@@ -141,20 +130,17 @@ h4 {
     text-align: left;
     letter-spacing: -6.5%;
 }
-
 .pimage-text {
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--image-text);
     letter-spacing: -6.5%;
     margin-left: 24px;
 }
-
 .pchargement{
     font-family: 'obj';
     font-size: var(--chargement);
     letter-spacing: -6,5%;
 }
-
 .pfilm-name{
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--film-name);
@@ -162,13 +148,11 @@ h4 {
     margin-left: 18px;
     margin-top: 75px;
 }
-
 .pchargement{
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--chargement);
     letter-spacing: -6,5%;
 }
-
 .pcorps-contact-beige{
     font-family: 'objectivitymedium', sans-serif;
     font-size: var(--corps-article);
@@ -176,7 +160,6 @@ h4 {
     letter-spacing: -6.5%;
     color: var(--third);
 }
-
 .pcorps-contact-black{
     font-family: 'objectivitymedium', sans-serif;
     font-size: var(--corps-article);
@@ -195,7 +178,6 @@ h4 {
     text-align: center;
     margin-top: -168px;
 }
-
 .p-sous-titres-redirection-film{
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--sous-titre-article);
@@ -205,7 +187,6 @@ h4 {
     text-align: center;
     margin-top: -147px;
 }
-
 .p-sous-titres-redirection-livre{
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--sous-titre-article);
@@ -215,7 +196,6 @@ h4 {
     text-align: center;
     margin-top: -165px;
 }
-
 .p-sous-titres-redirection-regret{
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--sous-titre-article);
@@ -225,7 +205,6 @@ h4 {
     text-align: center;
     margin-top: -150px;
 }
-
 .p-sous-titres-redirection-francais{
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--sous-titre-article);
@@ -234,7 +213,6 @@ h4 {
     justify-content: center;
     text-align: center;
 }
-
 .p-sous-titres-redirection-anglais{
     font-family: 'objectivityregular', sans-serif;
     font-size: var(--sous-titre-article);
