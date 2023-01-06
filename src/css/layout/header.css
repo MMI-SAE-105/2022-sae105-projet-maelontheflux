@@ -10,3 +10,7 @@
 .header-logo{
     margin-top: 27px;
 }
+.align-item-header{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,4 +1,4 @@
-/*Page*/
+/*Page general*/
 
 body {
   color: var(--white);
@@ -17,6 +17,12 @@ body {
 }
 .bgcolor3{
   background-color: var(--white);
+}
+
+.textalign{
+  display: flex;
+  justify-content: center;
+  text-align: center;
 }
 
 
@@ -321,11 +327,6 @@ button[type=send] {
 }
 .margintop115 {
   margin-top: 115px;
-}
-.textalign{
-  display: flex;
-  justify-content: center;
-  text-align: center;
 }
 
 
