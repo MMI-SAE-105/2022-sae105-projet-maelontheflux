@@ -21,7 +21,7 @@
     font-weight: normal;
     font-style: normal;
 }
-
+/*Les fonts ont un problème, la graisse ne s'appliquent pas tout le temps, j'ai donc rajouté des "font-weight: bold;".*/
 
 html {
     font-size: 62.5%;

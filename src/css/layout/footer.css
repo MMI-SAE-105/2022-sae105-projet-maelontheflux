@@ -2,6 +2,7 @@
 .pfooter-titre {
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--footer-titre);
+    font-weight: normal;
     color: var(--black);
     letter-spacing: -6.5%;
     margin-left: 5px;
