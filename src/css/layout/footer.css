@@ -56,7 +56,7 @@
     left: 33px;
     margin-top: 15px;    
     background-color: var(--third);
-    border: 3px solid #ACAD94;
+    border: 3px solid var(--black);
     border-radius: 5px;
 }
 .sous-ligne{
