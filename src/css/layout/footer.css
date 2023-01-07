@@ -55,7 +55,7 @@
     width: 303px;
     left: 33px;
     margin-top: 15px;    
-    background-color: var(--third);
+    background-color: var(--black);
     border: 3px solid var(--black);
     border-radius: 5px;
 }
