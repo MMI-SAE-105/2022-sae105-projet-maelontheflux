@@ -6,7 +6,7 @@ body {
   font-family: 'objectivitybold';
 }
 .p {
-  color: yellow;
+  color: rgb(255, 255, 255);
   font-family: var(--objectivityregular)
 }
 .body {
@@ -18,13 +18,15 @@ body {
 .bgcolor3{
   background-color: var(--white);
 }
+.bgcolor4{
+  background-color: var(--dynamic-1);
+}
 
 .textalign{
   display: flex;
   justify-content: center;
   text-align: center;
 }
-
 
 /*Formulaire*/
 input {

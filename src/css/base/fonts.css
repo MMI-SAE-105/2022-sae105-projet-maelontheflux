@@ -136,11 +136,6 @@ h4 {
     letter-spacing: -6.5%;
     margin-left: 24px;
 }
-.pchargement{
-    font-family: 'obj';
-    font-size: var(--chargement);
-    letter-spacing: -6,5%;
-}
 .pfilm-name{
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--film-name);
@@ -151,6 +146,7 @@ h4 {
 .pchargement{
     font-family: 'objectivitybold', sans-serif;
     font-size: var(--chargement);
+    font-weight: bolder;
     letter-spacing: -6,5%;
 }
 .pcorps-contact-beige{
@@ -159,6 +155,9 @@ h4 {
     margin-left: 29px;
     letter-spacing: -6.5%;
     color: var(--third);
+}
+.font-color-black{
+    color: var(--black);
 }
 .pcorps-contact-black{
     font-family: 'objectivitymedium', sans-serif;
